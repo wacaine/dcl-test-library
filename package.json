@@ -1,7 +1,7 @@
 {
-  "name": "sdk-library",
+  "name": "dcl-test-library",
   "version": "1.0.0",
-  "description": "Dcl SDK Library",
+  "description": "Test Dcl SDK Library",
   "main": "./dist/index.js",
   "scripts": {
     "build": "rollup -c --environment BUILD:production",
