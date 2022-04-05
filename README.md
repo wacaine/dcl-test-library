@@ -4,6 +4,10 @@ This project has the basics to start building your own library for using in Dece
 
 The libraries in the [Awesome Repository](https://github.com/decentraland-scenes/Awesome-Repository#Libraries) are available for all to use. We encourage you to create and share your own as well, we'd love to see the community grow and start sharing more reusable solutions to common problems through libraries!
 
+## Download
+
+https://www.npmjs.com/package/dcl-test-library
+
 ## Publish
 
 See [Create Libraries]() for tips on how to design and develop your library, and for simple instructions for publishing it to NPM.
